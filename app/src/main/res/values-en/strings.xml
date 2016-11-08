@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Sensor</string>
+    <string name="tulisan1">Sensors You Have</string>
+    <string name="about">About Us</string>
+    <string name="rate">Rate Us</string>
+    <string name="info">Device Information</string>
+    <string name="infoo">Device Information</string>
+</resources>

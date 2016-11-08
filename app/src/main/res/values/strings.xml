@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Sensor</string>
+    <string name="tulisan1">Berikut Adalah Sensor Yang Anda Miliki</string>
+    <string name="about">Tentang Kami</string>
+    <string name="infoo">Informasi Device</string>
+    <string name="rate">Nilai Kami</string>
+    <string name="info">Informasi Device</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159482863269",
+    "firebase_url": "https://my-sensor-4100b.firebaseio.com",
+    "project_id": "my-sensor-4100b",
+    "storage_bucket": "my-sensor-4100b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159482863269:android:d59c0c6e04e8d84a",
+        "android_client_info": {
+          "package_name": "com.id.festudio.mysensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159482863269-tibfsnki9247ab34us49orqqvq57hm9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.festudio.mysensor",
+            "certificate_hash": "DD25D2F768A87FCFFD69B31B1264F770956DD569"
+          }
+        },
+        {
+          "client_id": "159482863269-k3508fgtj93aum3s8q2ugu0lkk7k7h3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7CdTadr9HR-wQu7Bc5v0cfznul1kkgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159482863269-k3508fgtj93aum3s8q2ugu0lkk7k7h3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
